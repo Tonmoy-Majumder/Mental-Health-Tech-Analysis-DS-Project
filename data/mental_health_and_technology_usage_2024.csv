@@ -1,9 +1,8 @@
 User_ID,Age,Gender,Technology_Usage_Hours,Social_Media_Usage_Hours,Gaming_Hours,Screen_Time_Hours,Mental_Health_Status,Stress_Level,Sleep_Hours,Physical_Activity_Hours,Support_Systems_Access,Work_Environment_Impact,Online_Support_Usage
-USER-00001,23,Female,6.57,6.0,0.68,12.36,Good,Low,8.01,6.71,No,Negative,Yes
 USER-00002,21,Male,3.01,2.57,3.74,7.61,Poor,High,7.28,5.88,Yes,Positive,No
 USER-00003,51,Male,3.04,6.14,1.26,3.16,Fair,High,8.04,9.81,No,Negative,No
 USER-00004,25,Female,3.84,4.48,2.59,13.08,Excellent,Medium,5.62,5.28,Yes,Negative,Yes
-USER-00005,53,Male,1.2,0.56,0.29,12.63,Good,Low,5.55,4.0,No,Positive,Yes
+USER-00005,53,Male,,0.56,0.29,12.63,Good,Low,5.55,4.0,No,Positive,Yes
 USER-00006,58,Male,5.59,5.74,0.11,1.34,Poor,Low,8.61,6.54,Yes,Neutral,Yes
 USER-00007,63,Female,3.38,2.55,3.79,9.78,Excellent,Medium,8.61,1.34,Yes,Neutral,No
 USER-00008,51,Female,7.18,4.1,4.74,8.14,Excellent,Medium,7.11,5.27,Yes,Neutral,No
